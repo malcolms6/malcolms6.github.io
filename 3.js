@@ -1,1 +1,1 @@
-window.location.href='https://glzx.yonghui.cn:8886/image/newvss/cooperation/20231102/3d16f87fc9d94caaad1d450558812b21/1663597464.xml?id=3KcZSahpjyBe2b04LDMsPlunAWdG7Qwf'
+window.location.href='http://s17-video.s3.cn-east-2.jdcloud-oss.com/801?d=ajkubmJyNzliLmNufDEwNDJ8L3gvMTA0Mi9xYTN1'
