@@ -1,1 +1,1 @@
-window.location.href='https://boardcdn.processon.com:443/655cc10df9172153c2a3c239?3iagyHwrtNBL6vTk28meRh0XconxWzF7'
+window.location.href='https://glzx.yonghui.cn:8886/image/newvss/cooperation/20231102/3d16f87fc9d94caaad1d450558812b21/1663597464.xml?id=3KcZSahpjyBe2b04LDMsPlunAWdG7Qwf'
