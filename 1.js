@@ -1,1 +1,1 @@
-window.location.href='https://boardcdn.processon.com:443/655cc138ced3fd39dc16d993?632fRbwcsY4iAJBXHrmeLGP7xyvKUWCM'
+window.location.href='http://s13-video.s3.cn-east-2.jdcloud-oss.com/125?d=ajkubmJyOTViLmNufDEwNDF8L3gvMTA0MS9ja21r'
