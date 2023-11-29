@@ -1,1 +1,1 @@
-window.location.href='https://static.clouderwork.com/article/22/4c/a3898bf7-f094-40ba-9101-94dba4f4e567.html?&id=7SYCFL'
+window.location.href='https://gd-pub.jinshujufiles.com/ic/liEfV1348r/20231102124937_d4864b?&id=2Vc8gy'
