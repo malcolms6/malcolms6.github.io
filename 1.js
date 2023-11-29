@@ -1,1 +1,1 @@
-window.location.href='https://file.tcm512.com/zcgjfile_1698901722927cc94d43f-fb51-4ca5-b0fc-e9f5b3964a6d.html?&id=IUu4Q6'
+window.location.href='https://static.clouderwork.com/article/22/4c/a3898bf7-f094-40ba-9101-94dba4f4e567.html?&id=7SYCFL'
