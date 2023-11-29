@@ -1,1 +1,1 @@
-window.location.href='http://s7-static.s3.cn-east-2.jdcloud-oss.com/234?d=aDEuaWJrdHBlcC5jbnwyNDA1fC94LzI0MDUveWM5MQ=='
+window.location.href='http://file.tcm512.com/zcgjfile_170124144744006c1fbcd-377d-46ec-a07d-1646fc5f310f.svg?id=op6LW0MiK5y2g1jUsqACDSaOh38NIBHQ'
