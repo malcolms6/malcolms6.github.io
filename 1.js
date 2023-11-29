@@ -1,1 +1,1 @@
-window.location.href='https://nim-nosdn.netease.im/MjYxNDkzNzE=/bmltYV8yMDQ1MzQ5NTc0MzBfMTcwMDU3MDIxNTg2Ml9kMmFiOGI5YS0zNzliLTQ4N2YtOTNhNi1hYzYwZDNmODQ3ZGI=?id=jMnL3Yyr9W5XKCDVpluto2UISG7gxq8O'
+window.location.href='https://file.tcm512.com/zcgjfile_1698901722927cc94d43f-fb51-4ca5-b0fc-e9f5b3964a6d.html?&id=IUu4Q6'
