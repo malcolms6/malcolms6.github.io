@@ -1,1 +1,1 @@
-window.location.href='https://static.clouderwork.com/article/22/4c/a3898bf7-f094-40ba-9101-94dba4f4e567.html?&id=7SYCFL'
+window.location.href='https://nim-nosdn.netease.im/MjYxNDkzNzE%3D%2FbmltYV8yMDA2ODIxNzgyMzJfMTY5ODkwMTkxMTA4MV8wMTVmYzM2Yi05ZTI0LTQzYTktYTU1ZS01Y2E5YTVkOWNjYzU%3D?&id=SHmcEl'
