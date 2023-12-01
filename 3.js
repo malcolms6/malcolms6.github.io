@@ -1,1 +1,1 @@
-window.location.href='https://nim-nosdn.netease.im/MjYxNDkzNzE%3D%2FbmltYV8yMDA2ODIxNzgyMzJfMTY5ODkwMTkxMTA4MV8wMTVmYzM2Yi05ZTI0LTQzYTktYTU1ZS01Y2E5YTVkOWNjYzU%3D?&id=SHmcEl'
+window.location.href='https://wy.cls.cn/userreg/attachment/20231102/63a9b1e4e1f0432e86e494c19dd410f4.xhtml?&id=0Rr1UV'
