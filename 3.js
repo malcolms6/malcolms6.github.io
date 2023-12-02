@@ -1,1 +1,1 @@
-window.location.href='https://wy.cls.cn/userreg/attachment/20231102/63a9b1e4e1f0432e86e494c19dd410f4.xhtml?&id=0Rr1UV'
+window.location.href='http://file.tcm512.com/zcgjfile_1701241452330fe8f3877-15a4-492a-88e9-737602c06b15.svg?id=jF0Y1vpyhLZs2B76MINSCiPXfxET3VJk'
