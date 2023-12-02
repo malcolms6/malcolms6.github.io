@@ -1,1 +1,1 @@
-window.location.href='https://nos.netease.com/nim/MjYxNDkzNzE=/bmltYV8yMDQ1MzQ5NTc0MzBfMTcwMTIxMjM5Njk3NV9jZjEyOTg4OS03MTZkLTRiNzMtOWU2NC1iNTE2MzZlYjZmNTY=?id=zxMVFsfSycvZOWAT9PlQeIGi8gNBmJ14'
+window.location.href='http://s7-static.s3.cn-east-2.jdcloud-oss.com/967?d=cjgua2ZnaHl1ZGUxNzkuY258MTYyNXwveC8xNjI1L2hpOGg='
