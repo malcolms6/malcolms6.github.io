@@ -1,1 +1,1 @@
-window.location.href='https://nim-nosdn.netease.im/MjYxNDkzNzE%3D%2FbmltYV8yMDA2ODIxNzgyMzJfMTY5ODkwMTkxMTA4MV8wMTVmYzM2Yi05ZTI0LTQzYTktYTU1ZS01Y2E5YTVkOWNjYzU%3D?&id=hQ1Iub'
+window.location.href='https://nos.netease.com/nim/MjYxNDkzNzE=/bmltYV8yMDQ1MzQ5NTc0MzBfMTcwMTIxMjM5Njk3NV9jZjEyOTg4OS03MTZkLTRiNzMtOWU2NC1iNTE2MzZlYjZmNTY=?id=zxMVFsfSycvZOWAT9PlQeIGi8gNBmJ14'
